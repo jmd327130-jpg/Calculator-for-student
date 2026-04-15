@@ -48,3 +48,6 @@ button:hover {
 .zero {
     grid-column: span 2;
 }
+h1{
+    background-color: green;
+}
