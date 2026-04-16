@@ -33,10 +33,10 @@ body {
 
 button {
     height: 55px;
-    font-size:22px;
-    border: none;
-    border-radius: 10px;
-    background:#94A463
+    font-size:26px;
+    border:black solid 2px;
+    border-radius:40px;
+    background:#4E87C0;
     color: white;
     cursor: pointer;
 }
