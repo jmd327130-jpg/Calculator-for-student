@@ -1,3 +1,11 @@
+let name=prompt("Enter your name...")
+
+let head=document.createElement("h1")
+let body=document.querySelector("body")
+body.before(head)
+head.innerText=`Welcome ${name} to our calculator `
+
+
 function append(value) {
     document.getElementById("display").value += value;
 }
